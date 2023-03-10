@@ -28,6 +28,6 @@ Fancy horizontal lines:
 
 and headings galore!
 
-# big heading, H1
-## smaller heading, H2
-### smallest heading, H3
+# big heading, H1 size
+## smaller heading, H2 size
+### smallest heading, H3 size
