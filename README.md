@@ -6,7 +6,7 @@ Markdown is cool cause you can add [links](https://shellsamurai.com)
 
 and images!
 
-![text](samurai.png)
+![shell_samurai.png](samurai.png)
 
 We can make text **bold** or *italic*
 
